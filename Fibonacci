@@ -16,7 +16,7 @@ public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = {5, 3, 8, 1, 2, 7}; 
         System.out.println("Original array:");
-        for (int num : arr) {
+        for (int num : arr) { 
             System.out.print(num + " ");
         }
 
